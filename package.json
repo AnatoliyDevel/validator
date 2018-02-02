@@ -1,0 +1,29 @@
+{
+  "name": "validator",
+  "version": "1.0.0",
+  "description": "",
+  "author": {
+    "name": "Anatoliy Devel",
+    "email": "anatoliy.devel@gmail.com"
+  },
+  "license": "ISC",
+  "main": "validator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnatoliyDevel/validator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AnatoliyDevel/validator/issues"
+  },
+  "homepage": "https://github.com/AnatoliyDevel/validator#readme",
+  "files": [
+    "README.md",
+    "validator.js"
+  ],
+  "dependencies": {
+    "bluebird": "3.5.1"
+  }
+}
